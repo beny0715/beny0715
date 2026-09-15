@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mops": {
+      "type": "http",
+      "url": "https://toalpha.tw/mcp/mops"
+    }
+  }
+}
